@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bekzat Bagdat</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
 
-- 🌱 I’m currently learning **Frontend Development at Noroff**
+- 🌱 I’m currently studying **Frontend Development at Noroff**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-bekzatbagdat.netlify.app/](https://portfolio-bekzatbagdat.netlify.app/)
 
