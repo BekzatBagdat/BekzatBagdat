@@ -19,7 +19,7 @@
 
 ### 🚀 Projects
 - 💰 **[Auction Site](https://auctionbestbids-bekzatbagdat.netlify.app/):** A fully responsive Auction Site build with Vanilla JS and Bootstrap
-- 🛒 **[React Shop](https://holidaze-project-example.netlify.app/):** A Simple, Responsive e-commerce Site build with React
+- 🛒 **[React Shop](https://bekzatsreactshop.netlify.app/):** A Simple, Responsive e-commerce Site build with React
 
 ---
 
