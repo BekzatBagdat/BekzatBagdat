@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-bekzatbagdat.netlify.app/](https://portfolio-bekzatbagdat.netlify.app/)
 
-- 📫 How to reach me **bekzatupw@gmail.com**
+- 📫 How to reach me **paintdex12@gmail.com**
 
 --- 
 
