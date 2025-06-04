@@ -4,7 +4,7 @@
 
 --- 
 
-- 🌱 I’m currently studying **Frontend Development at Noroff**
+- 🤖 Linux (Ubuntu)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-bekzatbagdat.netlify.app/](https://portfolio-bekzatbagdat.netlify.app/)
 
