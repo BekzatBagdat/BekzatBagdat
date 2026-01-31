@@ -4,7 +4,7 @@
 
 --- 
 
-- 🤖 Linux (Ubuntu)
+- 🤖 Linux (Ubuntu), Windows 11
 
 - 👨‍💻 All of my projects are available at [https://portfolio-bekzatbagdat.netlify.app/](https://portfolio-bekzatbagdat.netlify.app/)
 
